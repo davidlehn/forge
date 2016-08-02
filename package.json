@@ -41,7 +41,7 @@
       "url": "https://github.com/digitalbazaar/forge/raw/master/LICENSE"
     }
   ],
-  "main": "js/forge.js",
+  "main": "lib/index.js",
   "engines": {
     "node": "*"
   },
